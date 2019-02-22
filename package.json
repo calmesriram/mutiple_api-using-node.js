@@ -1,0 +1,28 @@
+{
+  "name": "Ram(Nodejs)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "getmac": "^1.4.6",
+    "jquery": "^3.3.1",
+    "jsdom": "^13.2.0",
+    "nodemon": "^1.18.10",
+    "puppeteer": "^1.12.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "require-https": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
